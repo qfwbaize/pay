@@ -1,0 +1,11 @@
+{
+    "name": "baize/pay",
+    "description": "付",
+    "authors": [
+        {
+            "name": "白泽",
+            "email": "741499810@qq.com"
+        }
+    ],
+    "require": {}
+}
